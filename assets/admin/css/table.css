@@ -1,0 +1,10 @@
+.table.table-profile {
+    
+}
+.table.table-profile tr td {
+    border-top: none;
+    padding: 4px 8px;
+}
+.table.table-profile tr td h4 {
+    color: #1AB394;
+}
